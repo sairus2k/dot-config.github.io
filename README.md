@@ -21,6 +21,8 @@ We only extended the concept to project repositories.
 - [doc8](https://github.com/PyCQA/doc8)
 - [Mill](https://github.com/com-lihaoyi/mill)
 - [molecule](https://github.com/ansible-community/molecule)
+- [cosmiconfig](https://github.com/cosmiconfig/cosmiconfig)
+- [lilconfig](https://github.com/antonk52/lilconfig)
 
 ## Q&A
 
